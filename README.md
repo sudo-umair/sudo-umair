@@ -1,5 +1,7 @@
 <a href="https://umair-dev.vercel.app">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-dark-narrow.svg">
+    <source media="(max-width: 600px)" srcset="assets/header-light-narrow.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
     <img alt="Muhammad Umair, Full Stack Engineer. I build web, mobile and TV apps with React, React Native and Node." src="assets/header-light.svg" width="100%">
   </picture>

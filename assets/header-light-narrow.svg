@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-label="Muhammad Umair, Full Stack Engineer">
+  <style>
+    .sans { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace; }
+    .rule { stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 1.4s cubic-bezier(.2,.7,.2,1) .2s forwards; }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes pulse { 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { .rule { animation: none; stroke-dashoffset: 0; } .dot { animation: none; } }
+  </style>
+  <text class="mono" x="20" y="44" font-size="18" letter-spacing="1.5" fill="#5b5d66">FULL STACK ENGINEER / RAWALPINDI, PK</text>
+  <g transform="translate(20 66)">
+    <rect width="190" height="38" rx="19" fill="#2337ff"/>
+    <circle class="dot" cx="23" cy="19" r="5" fill="#ffffff"/>
+    <text class="mono" x="40" y="25" font-size="15" letter-spacing="1" fill="#ffffff">OPEN TO WORK</text>
+  </g>
+  <text class="sans" x="16" y="210" font-size="90" font-weight="800" letter-spacing="-3" fill="#0b0b0c">Muhammad</text>
+  <text class="sans" x="16" y="306" font-size="90" font-weight="800" letter-spacing="-3" fill="#0b0b0c">Umair<tspan fill="#2337ff">.</tspan></text>
+  <line class="rule" x1="20" y1="338" x2="580" y2="338" stroke="#0b0b0c" stroke-width="2"/>
+  <text class="sans" x="20" y="382" font-size="27" fill="#5b5d66">I build <tspan fill="#0b0b0c" font-weight="700">web</tspan>, <tspan fill="#0b0b0c" font-weight="700">mobile</tspan> and <tspan fill="#0b0b0c" font-weight="700">TV</tspan> apps</text>
+  <text class="sans" x="20" y="418" font-size="27" fill="#5b5d66">with React, React Native and Node.</text>
+</svg>
