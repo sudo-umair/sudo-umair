@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="GitHub stats for sudo-umair">
+  <style>
+    .sans { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace; }
+  </style>
+  <text class="mono" x="40" y="40" font-size="15" letter-spacing="2" fill="#9a9ca6">GITHUB ACTIVITY</text>
+  <text class="mono" x="680" y="40" font-size="15" letter-spacing="2" fill="#9a9ca6">TOP LANGUAGES</text>
+  <line x1="40" y1="60" x2="1160" y2="60" stroke="#ededf0" stroke-width="2"/>
+  <line x1="640" y1="90" x2="640" y2="300" stroke="#2a2c33" stroke-width="1"/>
+  <text class="sans" x="40" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">1,706</text>
+  <text class="mono" x="40" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">CONTRIBUTIONS / 1Y</text>
+  <text class="sans" x="240" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">594</text>
+  <text class="mono" x="240" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">COMMITS / 1Y</text>
+  <text class="sans" x="440" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">72</text>
+  <text class="mono" x="440" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">PULL REQUESTS / 1Y</text>
+  <text class="sans" x="40" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">5<tspan font-size="20.8" font-weight="400" fill="#9a9ca6" dx="6">days</tspan></text>
+  <text class="mono" x="40" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">CURRENT STREAK</text>
+  <text class="sans" x="240" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">18<tspan font-size="20.8" font-weight="400" fill="#9a9ca6" dx="6">days</tspan></text>
+  <text class="mono" x="240" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">LONGEST STREAK</text>
+  <text class="sans" x="440" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">46</text>
+  <text class="mono" x="440" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">REPOSITORIES</text>
+  <clipPath id="bar"><rect x="680" y="100" width="480" height="14" rx="7"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="680.0" y="100" width="307.0" height="14" fill="#7d8bff" fill-opacity="1.00"/><rect x="987.0" y="100" width="84.7" height="14" fill="#7d8bff" fill-opacity="0.88"/><rect x="1071.7" y="100" width="26.1" height="14" fill="#7d8bff" fill-opacity="0.77"/><rect x="1097.8" y="100" width="23.3" height="14" fill="#7d8bff" fill-opacity="0.65"/><rect x="1121.1" y="100" width="16.1" height="14" fill="#7d8bff" fill-opacity="0.53"/><rect x="1137.3" y="100" width="6.9" height="14" fill="#7d8bff" fill-opacity="0.42"/><rect x="1144.2" y="100" width="15.8" height="14" fill="#7d8bff" fill-opacity="0.30"/></g>
+  <circle cx="686" cy="136.3" r="6" fill="#7d8bff" fill-opacity="1.00"/>
+  <text class="sans" x="700" y="144" font-size="22" fill="#ededf0">TypeScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">64.0%</tspan></text>
+  <circle cx="926" cy="136.3" r="6" fill="#7d8bff" fill-opacity="0.88"/>
+  <text class="sans" x="940" y="144" font-size="22" fill="#ededf0">JavaScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">17.6%</tspan></text>
+  <circle cx="686" cy="182.3" r="6" fill="#7d8bff" fill-opacity="0.77"/>
+  <text class="sans" x="700" y="190" font-size="22" fill="#ededf0">Lua <tspan class="mono" font-size="17.6" fill="#9a9ca6">5.4%</tspan></text>
+  <circle cx="926" cy="182.3" r="6" fill="#7d8bff" fill-opacity="0.65"/>
+  <text class="sans" x="940" y="190" font-size="22" fill="#ededf0">CSS <tspan class="mono" font-size="17.6" fill="#9a9ca6">4.9%</tspan></text>
+  <circle cx="686" cy="228.3" r="6" fill="#7d8bff" fill-opacity="0.53"/>
+  <text class="sans" x="700" y="236" font-size="22" fill="#ededf0">HTML <tspan class="mono" font-size="17.6" fill="#9a9ca6">3.4%</tspan></text>
+  <circle cx="926" cy="228.3" r="6" fill="#7d8bff" fill-opacity="0.42"/>
+  <text class="sans" x="940" y="236" font-size="22" fill="#ededf0">TeX <tspan class="mono" font-size="17.6" fill="#9a9ca6">1.4%</tspan></text>
+  <circle cx="686" cy="274.3" r="6" fill="#7d8bff" fill-opacity="0.30"/>
+  <text class="sans" x="700" y="282" font-size="22" fill="#ededf0">Other <tspan class="mono" font-size="17.6" fill="#9a9ca6">3.3%</tspan></text>
+</svg>

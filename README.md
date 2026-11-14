@@ -34,6 +34,15 @@ Currently a Mid-Senior Full Stack Engineer at **Codejunkie**, and open to new ro
   </tr>
 </table>
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/stats-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/stats-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub activity and top languages" src="assets/stats-light.svg" width="100%">
+</picture>
+
 ### Stack
 
 **Frontend** &nbsp; React · Next.js · TypeScript · TanStack Query · Zustand · Tailwind CSS · shadcn/ui<br>
