@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Muhammad Umair, Full Stack Engineer">
+  <style>
+    .sans { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace; }
+    .rule { stroke-dasharray: 1120; stroke-dashoffset: 1120; animation: draw 1.4s cubic-bezier(.2,.7,.2,1) .2s forwards; }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes pulse { 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { .rule { animation: none; stroke-dashoffset: 0; } .dot { animation: none; } }
+  </style>
+  <text class="mono" x="40" y="58" font-size="15" letter-spacing="2" fill="#5b5d66">FULL STACK ENGINEER  /  RAWALPINDI, PK  /  5+ YEARS</text>
+  <text class="sans" x="36" y="170" font-size="104" font-weight="800" letter-spacing="-3" fill="#0b0b0c">Muhammad Umair<tspan fill="#2337ff">.</tspan></text>
+  <line class="rule" x1="40" y1="206" x2="1160" y2="206" stroke="#0b0b0c" stroke-width="2"/>
+  <text class="sans" x="40" y="262" font-size="26" fill="#5b5d66">I build <tspan fill="#0b0b0c" font-weight="700">web</tspan>, <tspan fill="#0b0b0c" font-weight="700">mobile</tspan> and <tspan fill="#0b0b0c" font-weight="700">TV</tspan> apps with React, React Native and Node.</text>
+  <g transform="translate(980 34)">
+    <rect width="180" height="36" rx="18" fill="#2337ff"/>
+    <circle class="dot" cx="22" cy="18" r="5" fill="#ffffff"/>
+    <text class="mono" x="38" y="23" font-size="14" letter-spacing="1" fill="#ffffff">OPEN TO WORK</text>
+  </g>
+</svg>
