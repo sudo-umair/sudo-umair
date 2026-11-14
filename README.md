@@ -15,12 +15,24 @@ Currently a Mid-Senior Full Stack Engineer at **Codejunkie**, and open to new ro
 
 ### Selected work
 
-| | |
-|---|---|
-| **[Beyond Presence](https://umair-dev.vercel.app/work/beyond-presence)**<br><sub>Web · React · LiveKit / WebRTC</sub> | Real-time AI avatar platform. I built the dashboard, the agent creation flows and the live call experience. |
-| **[cureVision](https://umair-dev.vercel.app/work/curevision)**<br><sub>Android · React Native · Java native modules</sub> | Led the app for an MDR-certified handheld wound scanner: depth camera, custom flash, on-device AI and offline-first sync. |
-| **[SalatHub](https://umair-dev.vercel.app/work/salathub)**<br><sub>Web · Android · Android TV · Supabase</sub> | Mosque platform with an admin console, 24/7 prayer-time displays on old TV boxes and a mobile app, all on one backend. |
-| **[Mailcamp](https://umair-dev.vercel.app/work/mailcamp)**<br><sub>Web · Bun · Express · PostgreSQL</sub> | Email marketing platform on a self-hosted mail server, with campaign sending coordinated in Postgres alone. |
+<table>
+  <tr>
+    <td><b><a href="https://umair-dev.vercel.app/work/beyond-presence">Beyond Presence</a></b><br><sub>Web · React · LiveKit / WebRTC</sub></td>
+    <td>Real-time AI avatar platform. I built the dashboard, the agent creation flows and the live call experience.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://umair-dev.vercel.app/work/curevision">cureVision</a></b><br><sub>Android · React Native · Java native modules</sub></td>
+    <td>Led the app for an MDR-certified handheld wound scanner: depth camera, custom flash, on-device AI and offline-first sync.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://umair-dev.vercel.app/work/salathub">SalatHub</a></b><br><sub>Web · Android · Android TV · Supabase</sub></td>
+    <td>Mosque platform with an admin console, 24/7 prayer-time displays on old TV boxes and a mobile app, all on one backend.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://umair-dev.vercel.app/work/mailcamp">Mailcamp</a></b><br><sub>Web · Bun · Express · PostgreSQL</sub></td>
+    <td>Email marketing platform on a self-hosted mail server, with campaign sending coordinated in Postgres alone.</td>
+  </tr>
+</table>
 
 ### Stack
 
