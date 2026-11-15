@@ -7,32 +7,32 @@
   <text class="mono" x="680" y="40" font-size="15" letter-spacing="2" fill="#9a9ca6">TOP LANGUAGES</text>
   <line x1="40" y1="60" x2="1160" y2="60" stroke="#ededf0" stroke-width="2"/>
   <line x1="640" y1="90" x2="640" y2="300" stroke="#2a2c33" stroke-width="1"/>
-  <text class="sans" x="40" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">1,708</text>
+  <text class="sans" x="40" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">1,728</text>
   <text class="mono" x="40" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">CONTRIBUTIONS / 1Y</text>
-  <text class="sans" x="240" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">596</text>
+  <text class="sans" x="240" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">614</text>
   <text class="mono" x="240" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">COMMITS / 1Y</text>
   <text class="sans" x="440" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">72</text>
   <text class="mono" x="440" y="178" font-size="14" letter-spacing="1.5" fill="#9a9ca6">PULL REQUESTS / 1Y</text>
-  <text class="sans" x="40" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">5<tspan font-size="20.8" font-weight="400" fill="#9a9ca6" dx="6">days</tspan></text>
+  <text class="sans" x="40" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">6<tspan font-size="20.8" font-weight="400" fill="#9a9ca6" dx="6">days</tspan></text>
   <text class="mono" x="40" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">CURRENT STREAK</text>
   <text class="sans" x="240" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">18<tspan font-size="20.8" font-weight="400" fill="#9a9ca6" dx="6">days</tspan></text>
   <text class="mono" x="240" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">LONGEST STREAK</text>
   <text class="sans" x="440" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#ededf0">40</text>
   <text class="mono" x="440" y="298" font-size="14" letter-spacing="1.5" fill="#9a9ca6">REPOSITORIES</text>
   <clipPath id="bar"><rect x="680" y="100" width="480" height="14" rx="7"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="680.0" y="100" width="165.3" height="14" fill="#7d8bff" fill-opacity="1.00"/><rect x="845.3" y="100" width="162.6" height="14" fill="#7d8bff" fill-opacity="0.88"/><rect x="1008.0" y="100" width="49.8" height="14" fill="#7d8bff" fill-opacity="0.77"/><rect x="1057.8" y="100" width="42.9" height="14" fill="#7d8bff" fill-opacity="0.65"/><rect x="1100.7" y="100" width="30.1" height="14" fill="#7d8bff" fill-opacity="0.53"/><rect x="1130.8" y="100" width="13.1" height="14" fill="#7d8bff" fill-opacity="0.42"/><rect x="1143.9" y="100" width="16.1" height="14" fill="#7d8bff" fill-opacity="0.30"/></g>
+  <g clip-path="url(#bar)"><rect x="680.0" y="100" width="168.9" height="14" fill="#7d8bff" fill-opacity="1.00"/><rect x="848.9" y="100" width="160.3" height="14" fill="#7d8bff" fill-opacity="0.88"/><rect x="1009.2" y="100" width="49.1" height="14" fill="#7d8bff" fill-opacity="0.77"/><rect x="1058.3" y="100" width="43.2" height="14" fill="#7d8bff" fill-opacity="0.65"/><rect x="1101.5" y="100" width="29.7" height="14" fill="#7d8bff" fill-opacity="0.53"/><rect x="1131.2" y="100" width="12.9" height="14" fill="#7d8bff" fill-opacity="0.42"/><rect x="1144.1" y="100" width="15.9" height="14" fill="#7d8bff" fill-opacity="0.30"/></g>
   <circle cx="686" cy="136.3" r="6" fill="#7d8bff" fill-opacity="1.00"/>
-  <text class="sans" x="700" y="144" font-size="22" fill="#ededf0">TypeScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">34.4%</tspan></text>
+  <text class="sans" x="700" y="144" font-size="22" fill="#ededf0">TypeScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">35.2%</tspan></text>
   <circle cx="926" cy="136.3" r="6" fill="#7d8bff" fill-opacity="0.88"/>
-  <text class="sans" x="940" y="144" font-size="22" fill="#ededf0">JavaScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">33.9%</tspan></text>
+  <text class="sans" x="940" y="144" font-size="22" fill="#ededf0">JavaScript <tspan class="mono" font-size="17.6" fill="#9a9ca6">33.4%</tspan></text>
   <circle cx="686" cy="182.3" r="6" fill="#7d8bff" fill-opacity="0.77"/>
-  <text class="sans" x="700" y="190" font-size="22" fill="#ededf0">Lua <tspan class="mono" font-size="17.6" fill="#9a9ca6">10.4%</tspan></text>
+  <text class="sans" x="700" y="190" font-size="22" fill="#ededf0">Lua <tspan class="mono" font-size="17.6" fill="#9a9ca6">10.2%</tspan></text>
   <circle cx="926" cy="182.3" r="6" fill="#7d8bff" fill-opacity="0.65"/>
-  <text class="sans" x="940" y="190" font-size="22" fill="#ededf0">CSS <tspan class="mono" font-size="17.6" fill="#9a9ca6">8.9%</tspan></text>
+  <text class="sans" x="940" y="190" font-size="22" fill="#ededf0">CSS <tspan class="mono" font-size="17.6" fill="#9a9ca6">9.0%</tspan></text>
   <circle cx="686" cy="228.3" r="6" fill="#7d8bff" fill-opacity="0.53"/>
-  <text class="sans" x="700" y="236" font-size="22" fill="#ededf0">HTML <tspan class="mono" font-size="17.6" fill="#9a9ca6">6.3%</tspan></text>
+  <text class="sans" x="700" y="236" font-size="22" fill="#ededf0">HTML <tspan class="mono" font-size="17.6" fill="#9a9ca6">6.2%</tspan></text>
   <circle cx="926" cy="228.3" r="6" fill="#7d8bff" fill-opacity="0.42"/>
   <text class="sans" x="940" y="236" font-size="22" fill="#ededf0">Java <tspan class="mono" font-size="17.6" fill="#9a9ca6">2.7%</tspan></text>
   <circle cx="686" cy="274.3" r="6" fill="#7d8bff" fill-opacity="0.30"/>
-  <text class="sans" x="700" y="282" font-size="22" fill="#ededf0">Other <tspan class="mono" font-size="17.6" fill="#9a9ca6">3.4%</tspan></text>
+  <text class="sans" x="700" y="282" font-size="22" fill="#ededf0">Other <tspan class="mono" font-size="17.6" fill="#9a9ca6">3.3%</tspan></text>
 </svg>
