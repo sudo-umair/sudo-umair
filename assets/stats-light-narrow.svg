@@ -5,13 +5,13 @@
   </style>
   <text class="mono" x="20" y="40" font-size="18" letter-spacing="1.5" fill="#5b5d66">GITHUB ACTIVITY</text>
   <line x1="20" y1="60" x2="580" y2="60" stroke="#0b0b0c" stroke-width="2"/>
-  <text class="sans" x="20" y="150" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">1,728</text>
+  <text class="sans" x="20" y="150" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">1,730</text>
   <text class="mono" x="20" y="184" font-size="20" letter-spacing="1.5" fill="#5b5d66">CONTRIBUTIONS / 1Y</text>
-  <text class="sans" x="310" y="150" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">614</text>
+  <text class="sans" x="310" y="150" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">616</text>
   <text class="mono" x="310" y="184" font-size="20" letter-spacing="1.5" fill="#5b5d66">COMMITS / 1Y</text>
   <text class="sans" x="20" y="290" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">72</text>
   <text class="mono" x="20" y="324" font-size="20" letter-spacing="1.5" fill="#5b5d66">PULL REQUESTS / 1Y</text>
-  <text class="sans" x="310" y="290" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">6<tspan font-size="28.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
+  <text class="sans" x="310" y="290" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">7<tspan font-size="28.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
   <text class="mono" x="310" y="324" font-size="20" letter-spacing="1.5" fill="#5b5d66">CURRENT STREAK</text>
   <text class="sans" x="20" y="430" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">18<tspan font-size="28.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
   <text class="mono" x="20" y="464" font-size="20" letter-spacing="1.5" fill="#5b5d66">LONGEST STREAK</text>
@@ -20,11 +20,11 @@
   <text class="mono" x="20" y="530" font-size="18" letter-spacing="1.5" fill="#5b5d66">TOP LANGUAGES</text>
   <line x1="20" y1="550" x2="580" y2="550" stroke="#0b0b0c" stroke-width="2"/>
   <clipPath id="bar"><rect x="20" y="576" width="560" height="14" rx="7"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="20.0" y="576" width="197.1" height="14" fill="#2337ff" fill-opacity="1.00"/><rect x="217.1" y="576" width="187.0" height="14" fill="#2337ff" fill-opacity="0.88"/><rect x="404.1" y="576" width="57.3" height="14" fill="#2337ff" fill-opacity="0.77"/><rect x="461.3" y="576" width="50.4" height="14" fill="#2337ff" fill-opacity="0.65"/><rect x="511.8" y="576" width="34.6" height="14" fill="#2337ff" fill-opacity="0.53"/><rect x="546.4" y="576" width="15.0" height="14" fill="#2337ff" fill-opacity="0.42"/><rect x="561.4" y="576" width="18.6" height="14" fill="#2337ff" fill-opacity="0.30"/></g>
+  <g clip-path="url(#bar)"><rect x="20.0" y="576" width="198.6" height="14" fill="#2337ff" fill-opacity="1.00"/><rect x="218.6" y="576" width="186.2" height="14" fill="#2337ff" fill-opacity="0.88"/><rect x="404.8" y="576" width="57.0" height="14" fill="#2337ff" fill-opacity="0.77"/><rect x="461.8" y="576" width="50.2" height="14" fill="#2337ff" fill-opacity="0.65"/><rect x="512.1" y="576" width="34.5" height="14" fill="#2337ff" fill-opacity="0.53"/><rect x="546.5" y="576" width="15.0" height="14" fill="#2337ff" fill-opacity="0.42"/><rect x="561.5" y="576" width="18.5" height="14" fill="#2337ff" fill-opacity="0.30"/></g>
   <circle cx="26" cy="625.5" r="6" fill="#2337ff" fill-opacity="1.00"/>
-  <text class="sans" x="40" y="636" font-size="30" fill="#0b0b0c">TypeScript <tspan class="mono" font-size="24" fill="#5b5d66">35.2%</tspan></text>
+  <text class="sans" x="40" y="636" font-size="30" fill="#0b0b0c">TypeScript <tspan class="mono" font-size="24" fill="#5b5d66">35.5%</tspan></text>
   <circle cx="306" cy="625.5" r="6" fill="#2337ff" fill-opacity="0.88"/>
-  <text class="sans" x="320" y="636" font-size="30" fill="#0b0b0c">JavaScript <tspan class="mono" font-size="24" fill="#5b5d66">33.4%</tspan></text>
+  <text class="sans" x="320" y="636" font-size="30" fill="#0b0b0c">JavaScript <tspan class="mono" font-size="24" fill="#5b5d66">33.2%</tspan></text>
   <circle cx="26" cy="681.5" r="6" fill="#2337ff" fill-opacity="0.77"/>
   <text class="sans" x="40" y="692" font-size="30" fill="#0b0b0c">Lua <tspan class="mono" font-size="24" fill="#5b5d66">10.2%</tspan></text>
   <circle cx="306" cy="681.5" r="6" fill="#2337ff" fill-opacity="0.65"/>
