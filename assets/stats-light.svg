@@ -13,7 +13,7 @@
   <text class="mono" x="240" y="178" font-size="14" letter-spacing="1.5" fill="#5b5d66">COMMITS / 1Y</text>
   <text class="sans" x="440" y="150" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">72</text>
   <text class="mono" x="440" y="178" font-size="14" letter-spacing="1.5" fill="#5b5d66">PULL REQUESTS / 1Y</text>
-  <text class="sans" x="40" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">7<tspan font-size="20.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
+  <text class="sans" x="40" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">0<tspan font-size="20.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
   <text class="mono" x="40" y="298" font-size="14" letter-spacing="1.5" fill="#5b5d66">CURRENT STREAK</text>
   <text class="sans" x="240" y="270" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#0b0b0c">18<tspan font-size="20.8" font-weight="400" fill="#5b5d66" dx="6">days</tspan></text>
   <text class="mono" x="240" y="298" font-size="14" letter-spacing="1.5" fill="#5b5d66">LONGEST STREAK</text>
